@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Awesome Todo app</string>
+    <string name="new_entry">Nov vnos</string>
+    <string name="refresh">Osveži</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Geslo</string>
+    <string name="action_sign_in">Prijava</string>
+    <string name="create_account">Ustvari račun</string>
+    <string name="logout">Odjava</string>
+</resources>
