@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "712661720472",
+    "firebase_url": "https://test-awesome-todo-app.firebaseio.com",
+    "project_id": "test-awesome-todo-app",
+    "storage_bucket": "test-awesome-todo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712661720472:android:efad75a15eba61df",
+        "android_client_info": {
+          "package_name": "com.zimskasola.myawesometodoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712661720472-90n8rj2c6ru54gprkndgbueeff6mmfdd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zimskasola.myawesometodoapp",
+            "certificate_hash": "1fb2b266e67a5893a962b8a909458bf71bbd5082"
+          }
+        },
+        {
+          "client_id": "712661720472-bonho0kap37appe05q9d6hcgtoelgndl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_aL0FjxiZD6OkJjp0dO3GCnWNYR3Z5jA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712661720472-bonho0kap37appe05q9d6hcgtoelgndl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

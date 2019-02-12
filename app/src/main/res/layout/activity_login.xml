@@ -80,6 +80,16 @@
                 android:text="@string/create_account"
                 android:textStyle="bold" />
 
+            <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginTop="32dp"
+                    android:text="https://goo.gl/LCJivA"
+                    android:textSize="32sp"
+                    android:textStyle="bold"
+                    tools:ignore="HardcodedText" />
+
         </LinearLayout>
     </ScrollView>
 </LinearLayout>
